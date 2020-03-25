@@ -1,0 +1,44 @@
+Package: com.wiimob.wiiauto
+Version: 0.0.35
+Architecture: iphoneos-arm
+Maintainer: Manh Tran
+Depends: mobilesubstrate, firmware (>= 8.0), openssh, com.autopear.installipa (>= 3.4.1), unzip, com.aia.proxytool
+Filename: /WiiAuto.deb
+Size: 16497280
+MD5sum: 5e38aed87b3768cd13b61d99c7ca8f6e
+SHA1: 30b8002273e304a9c2c76a3f303a2adc33937d33
+SHA256: fadc472ec9342fc89e9fad28b9ca9d55d027e1886dc2437e755e0068aff9dd07
+Section: Tweaks
+Description: Auto macro scripts developed by Wiimob. Install Link <http://localhost:8080/install>
+Author: Manh Tran
+Name: WiiAuto
+
+Package: com.tonyk7.mgspoof
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Saruno <vanthinh061189@gmail.com>
+Depends: mobilesubstrate
+Filename: /MGSpoof.deb
+Size: 39386
+MD5sum: ca6c9a0e5d09d2d1f0d6c2a73f8e2e21
+SHA1: 2225391dc2c7b50df0b41dff38879bfcbeb60ceb
+SHA256: 727dd6666f43e2c84ef19150e036ab94be37f669d60fc1ca20dfec97d119898d
+Section: Tweaks
+Description: Tool that can be used to spoof MGCopyAnswer's result (iOS 9 - 12.4)
+Author: Saruno <vanthinh061189@gmail.com>
+Name: MGSpoof
+
+Package: com.aia.proxytool
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Saruno <vanthinh061189@gmail.com>
+Depends: openssh
+Filename: /Proxytool.deb
+Size: 8144
+MD5sum: b428b8960268ff056e1f4e57e5a9103a
+SHA1: d53cab0ffdf70685da994cb383d9361c50fafc3b
+SHA256: a20da03a5739711e8229255c0cf339213490beb68f4dc0c1812499e47a43707b
+Section: System
+Description: Command line tool change proxy. Install all depends for autotool.
+Author: Saruno <vanthinh061189@gmail.com>
+Name: Proxytool
